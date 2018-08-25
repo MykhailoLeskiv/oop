@@ -1,0 +1,5 @@
+Name: Ivan Ivanenko
+Ticket number: 111020391
+Route: Lviv - Kyiv
+Place number in a bus: 12
+Baggage: 5
